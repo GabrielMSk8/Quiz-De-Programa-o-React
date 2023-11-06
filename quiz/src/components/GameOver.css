@@ -1,0 +1,28 @@
+#gameOver{
+    text-align: center;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px;
+    padding: 2rem;
+}
+
+
+
+
+
+#gameOver h2,
+#gameOver p{
+    margin-bottom: 18px;
+}
+
+
+
+#gameOver img{
+    margin: 18px;
+    max-height: 200px;
+}
+
+#gameOver button{
+    border: solid 2px;
+}

@@ -1,0 +1,27 @@
+#question{
+    text-align: center;
+    width: 500px;
+    background: linear-gradient(#8435de 0%, #9e69db 100% );
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    border-radius: 18px;
+}
+
+
+
+#question h2,
+#question p{
+    margin-bottom: 18px;
+}
+
+
+
+#question img{
+    margin-top: 18px;
+}
+
+#question button{
+    border: solid 2px;
+}

@@ -1,0 +1,25 @@
+.option{
+    background-color: #500ba0;
+    width: 300px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    opacity: 0.9;
+    transition: .5s;
+    border-radius: 16px;
+}
+
+
+.option:hover{
+    transform: scale(1.1);
+}
+
+.correct{
+    background-color: #0bfc03;
+    font-weight: bold;
+}
+
+.wrong{
+    background-color: #3c0e70;
+    opacity: .4;
+}
